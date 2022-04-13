@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorOnWF", "CalculatorOnWF\CalculatorOnWF.csproj", "{7965B88A-A396-48A8-BDAF-C45F3A950A86}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9A588FB8-DD11-4C5E-A2AE-DD3D19DA2181}"
+	ProjectSection(SolutionItems) = preProject
+		Значок.ico = Значок.ico
+		Значок1.ico = Значок1.ico
+		Значок2.ico = Значок2.ico
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{B2CA5C28-DDC0-44C0-AEBE-FE8B5395FCFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7965B88A-A396-48A8-BDAF-C45F3A950A86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7965B88A-A396-48A8-BDAF-C45F3A950A86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7965B88A-A396-48A8-BDAF-C45F3A950A86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7965B88A-A396-48A8-BDAF-C45F3A950A86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2CA5C28-DDC0-44C0-AEBE-FE8B5395FCFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2CA5C28-DDC0-44C0-AEBE-FE8B5395FCFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2CA5C28-DDC0-44C0-AEBE-FE8B5395FCFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2CA5C28-DDC0-44C0-AEBE-FE8B5395FCFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B56951D9-1AF2-43AF-BA1B-794879F4E1EC}
+	EndGlobalSection
+EndGlobal
